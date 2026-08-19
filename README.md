@@ -9,25 +9,25 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The goal of this project was to bridge academic theory with real-world industry application by building an end-to-end frontend e-commerce website. The application features a dynamic storefront landing page, featured product showcases, user reviews/testimonials, promotional banner sections, and branded sponsor layouts.
 
 ---
 
-## ✨ Features & User Interface
+## Features & User Interface
 
-- **🏠 Hero Banner:** High-impact promotional hero section with call-to-action buttons (`Explore Now`).
-- **👟 Featured & Latest Products:** Clean grid layouts displaying product images, titles, star ratings, and prices.
-- **⌚ Exclusive Product Spotlight:** Highlight section showcasing featured items (e.g., *Smart Band 4*) with detailed specs.
-- **💬 Testimonials Section:** User review cards complete with customer ratings and avatar profiles.
-- **🤝 Brand Showcase:** Responsive logo gallery highlighting partner brands (e.g., Godrej, Oppo, Coca-Cola, PayPal, Philips).
-- **📱 Responsive Layout:** Structured using CSS Flexbox/Grid for cross-device compatibility across desktop and mobile screens.
-- **🔗 Footer Navigation:** Quick links for company info, customer support, shop categories, and social media channels.
+- **Hero Banner:** High-impact promotional hero section with call-to-action buttons (`Explore Now`).
+- **Featured & Latest Products:** Clean grid layouts displaying product images, titles, star ratings, and prices.
+- **Exclusive Product Spotlight:** Highlight section showcasing featured items (e.g., *Smart Band 4*) with detailed specs.
+- **Testimonials Section:** User review cards complete with customer ratings and avatar profiles.
+- **Brand Showcase:** Responsive logo gallery highlighting partner brands (e.g., Godrej, Oppo, Coca-Cola, PayPal, Philips).
+- **Responsive Layout:** Structured using CSS Flexbox/Grid for cross-device compatibility across desktop and mobile screens.
+- **Footer Navigation:** Quick links for company info, customer support, shop categories, and social media channels.
 
 ---
 
-## 🛠️ Tech Stack & Learning Modules
+## Tech Stack & Learning Modules
 
 | Technology | Usage / Purpose |
 | :--- | :--- |
@@ -39,7 +39,7 @@ The goal of this project was to bridge academic theory with real-world industry 
 
 ---
 
-## 📅 Internship Training Curriculum
+## Internship Training Curriculum
 
 * **Week 1:** Fundamentals of HyperText Markup Language (HTML) & Cascading Style Sheets (CSS).
 * **Week 2:** Introduction to JavaScript programming logic and DOM manipulation.
@@ -48,7 +48,7 @@ The goal of this project was to bridge academic theory with real-world industry 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 RedStore/
